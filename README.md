@@ -1,1 +1,1 @@
-# AI Fintech - Banking the unBanked
+# AI Fintech - Banking the UNBanked
