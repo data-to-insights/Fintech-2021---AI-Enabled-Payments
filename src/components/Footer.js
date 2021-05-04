@@ -1,4 +1,4 @@
-import { Container, Button } from "@material-ui/core";
+import { Container } from "@material-ui/core";
 import "../style/Footer.css";
 import mockup from "../image/mockup.png";
 const Footer = () => {
